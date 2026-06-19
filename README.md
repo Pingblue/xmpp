@@ -12,6 +12,7 @@ Works with modern XMPP servers such as OpenIM and ejabberd
 No Composer dependencies required
 Preserves existing ruTorrent XMPP settings and user configuration
 Simple deployment and maintenance
+
 Requirements
 Python 3
 python3-slixmpp
