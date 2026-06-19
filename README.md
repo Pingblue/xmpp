@@ -20,4 +20,5 @@ python3-slixmpp-lib
 Debian / Ubuntu:
 
 apt update
+
 apt install -y python3-slixmpp python3-slixmpp-lib
